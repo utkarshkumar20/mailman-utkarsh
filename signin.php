@@ -18,7 +18,7 @@
     <nav class="navbar navbar-success bg-primary">
         <div class="container-fluid mx-5">
             <a class="navbar-brand" href="#">
-                <img src="../image/logo1.png" alt="" width="100%" height="50" class="d-inline-block align-text-top">
+                <img src="image/logo1.png" alt="" width="100%" height="50" class="d-inline-block align-text-top">
             </a>
         </div>
     </nav>
@@ -26,7 +26,7 @@
     <div class="container">
         <div class="row" id="box">
             <div class="col-md-5 col-sm-5 col-xs-12">
-                <img src="../image/default.png" class="mx-auto pt-0 d-block" alt="cover" width="50%">
+                <img src="image/default.png" class="mx-auto pt-0 d-block" alt="cover" width="50%">
             </div>
             <div class="col-md-6 col-sm-6 col-xs-12" id="form-box-1">
                 <form action="signindb.php" onsubmit="return validation()" method="post" enctype="multipart/form-data">
